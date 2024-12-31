@@ -22,4 +22,9 @@
 ## 📫 Contáctame
 - **Email:** [josealfredoloepzdelacruz2@gmail.com](mailto:josealfredoloepzdelacruz2@gmail.com)
 - **LinkedIn:** [Mi perfil](https://www.linkedin.com/José-Alfredo-López-De-La-Cruz/)
+
+## 🤳 Red Sociales
+![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_4tAABjsiIy2iQ4IQfV_Yw?style=social&logoSize=auto&link=https%3A%2F%2Fwww.youtube.com%2F%40alfredopro202)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfreGood20)
+
 >
