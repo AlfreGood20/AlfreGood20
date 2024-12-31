@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Alfredo! 👻
 
-<!--
-**AlfreGood20/AlfreGood20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Bienvenido a mi perfil de GitHub</h2>
+  <p>Me encanta aprender cosas nuevas y actualmente me enfoco cada dia a ser el mejor backend. 🎨✨</p>
+</div>
 
-Here are some ideas to get you started:
+## 🌟 Habilidades basicas
+- Python (Fundamentos)
+- Java (Fundamentos y POO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contáctame
+- **Email:** [josealfredoloepzdelacruz2@gmail.com](mailto:josealfredoloepzdelacruz2@gmail.com)
+- **LinkedIn:** [Mi perfil](https://www.linkedin.com/José-Alfredo-López-De-La-Cruz/)
+>
