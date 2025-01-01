@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Alfredo! 👻
 
 <div align="center">
-  <h2>Bienvenido a mi perfil de GitHub</h2>
+  <h2>Bienvenido a mi perfil de GitHub🤖</h2>
   <p>Me encanta aprender cosas nuevas y actualmente me enfoco cada dia a ser el mejor backend. 🎨✨</p>
 </div>
 
