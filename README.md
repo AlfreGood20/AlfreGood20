@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Alfredo! 👻
+# ![saludando](https://www.emojiall.com/es/image/%F0%9F%91%8B) ¡Hola, soy Alfredo! 👻
 
 <div align="center">
   <h2>Bienvenido a mi perfil de GitHub🤖</h2>
