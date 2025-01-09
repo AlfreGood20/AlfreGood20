@@ -1,4 +1,4 @@
-# ![saludando](https://www.emojiall.com/es/image/%F0%9F%91%8B) ¡Hola, soy Alfredo! 👻
+# 👋 ¡Hola, soy Alfredo! 👻
 
 <div align="center">
   <h2>Bienvenido a mi perfil de GitHub🤖</h2>
@@ -6,11 +6,11 @@
 </div>
 
 ## 🌟 Habilidades
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-(Fundamento).
+![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=15)
+**(Fundamento)**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-(Fundamentos y POO).
+![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)
+**(Fundamentos y POO)**
 
 ## 📅 Mi progreso
 | Tema                       | Estado       | Nota                          |
