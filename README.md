@@ -15,7 +15,7 @@
 ## 📅 Mi progreso
 | Tema                       | Estado       | Nota                          |
 |----------------------------|--------------|-------------------------------|
-| **Programación en Java POO**   | Avanzando    |  "Excepciones"  |
+| **Java Intefaz Grficas**   | Avanzando    |  "Fundamentos"  |
 | **Python**                 | Detenido     |       "Fundamentos"           |
 | **Ingles Basico**          |   En Progreso    |          "Fundamentos"        |
 
