@@ -12,7 +12,8 @@
 ![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)
 **(Fundamentos y POO)**
 
-![Git]((https://skillicons.dev/icons?i=git)
+![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)
+**(Comandos basicos)**
 ## 📅 Mi progreso
 | Tema                       | Estado       | Nota                          |
 |----------------------------|--------------|-------------------------------|
