@@ -12,12 +12,13 @@
 ![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)
 **(Fundamentos y POO)**
 
+![Git]((https://skillicons.dev/icons?i=git)
 ## 📅 Mi progreso
 | Tema                       | Estado       | Nota                          |
 |----------------------------|--------------|-------------------------------|
-| **Java Intefaz Grficas**   | Avanzando    |  "Fundamentos"  |
+| **Java Intefaz Grficas**   | Avanzando    |       "Fundamentos"           |
 | **Python**                 | Detenido     |       "Fundamentos"           |
-| **Ingles Basico**          |   En Progreso    |          "Fundamentos"        |
+| **Git**                    | Avazando     |   "Principales comandos"      |
 
 ## ✍️(◔◡◔) Lenguajes subidos
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
