@@ -13,6 +13,7 @@
 **(Fundamentos y POO)**
 
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)
+**(Comandos basicos)**
 
 ## ✍️(◔◡◔) Lenguajes subidos
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
