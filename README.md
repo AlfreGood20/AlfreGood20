@@ -10,18 +10,20 @@
 **(Fundamento)**
 
 ![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)
-**(Fundamentos y POO)**
+**(Fundamentos,POO Y JFrame)**
 
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)
 **(Comandos basicos)**
+
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
+**(Consultas Basicas)**
 
 ## ✍️(◔◡◔) Lenguajes subidos
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
 
 ## 📫 Contáctame
 - **Email:** [josealfredolopezdelacruz2@gmail.com](mailto:josealfredolopezdelacruz2@gmail.com)
-- **LinkedIn:** [Mi perfil](https://www.linkedin.com/José-Alfredo-López-De-La-Cruz/)
+- **LinkedIn:** [Mi perfil](https://www.linkedin.com/José-Alfredo-López-De-La-Cruz)
 
 ## 🤳 Red Sociales
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_4tAABjsiIy2iQ4IQfV_Yw?style=social&logoSize=auto&link=https%3A%2F%2Fwww.youtube.com%2F%40alfredopro202)
