@@ -18,7 +18,7 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
 **(Consultas Basicas)**
 
-## ✍️(◔◡◔) Lenguajes subidos
+## ✍️(◔◡◔) Lenguajes usados y subidos en git
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
 
 ## 📫 Contáctame
