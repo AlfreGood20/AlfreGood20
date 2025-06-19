@@ -14,6 +14,7 @@
 
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)
 **(Comandos basicos)**
+![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
 
 ## ✍️(◔◡◔) Lenguajes subidos
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
