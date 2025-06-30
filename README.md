@@ -16,6 +16,7 @@
 **(Comandos basicos)**
 
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark&perline=15)
 **(Consultas Basicas)**
 
 ## ✍️(◔◡◔) Lenguajes usados y subidos en git
