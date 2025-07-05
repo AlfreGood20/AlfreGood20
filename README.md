@@ -10,14 +10,17 @@
 **(Fundamento)**
 
 ![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)
-**(Fundamentos,POO Y JFrame)**
+**(Fundamentos,POO, JFrame, JDBC y JPA)**
 
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)
 **(Comandos basicos)**
 
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark&perline=15)
-**(Consultas Basicas)**
+**(Consultas Basicas Y JOIN)**
+
+![Spring](https://skillicons.dev/icons?i=spring&theme=dark&perline=15)
+**(Enpoint basicos)**
 
 ## ✍️(◔◡◔) Lenguajes usados y subidos en git
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
