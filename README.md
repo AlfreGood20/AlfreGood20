@@ -20,9 +20,9 @@
 **(Consultas Basicas Y JOIN)**
 
 ![Spring](https://skillicons.dev/icons?i=spring&theme=dark&perline=15)
-**(Enpoint basicos)**
+**(Spring boot conceptos basicos)**
 
-## ✍️(◔◡◔) Lenguajes usados y subidos en git
+## ✍️(◔◡◔) Skills
 ![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
 
 ## 📫 Contáctame
