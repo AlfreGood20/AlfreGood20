@@ -22,8 +22,13 @@
 ![Spring](https://skillicons.dev/icons?i=spring&theme=dark&perline=15)
 **(Spring boot conceptos basicos)**
 
-## ✍️(◔◡◔) Skills
-![Estack](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&theme=blue-green)
+## ESTADISTICAS LENGUAJES 🖥️✏️
+<div align="center">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&layout=compact&theme=radical)
+
+</div>
 
 ## 📫 Contáctame
 - **Email:** [josealfredolopezdelacruz2@gmail.com](mailto:josealfredolopezdelacruz2@gmail.com)
