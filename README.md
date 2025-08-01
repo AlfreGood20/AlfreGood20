@@ -5,22 +5,17 @@
   <p>Me encanta aprender cosas nuevas y actualmente me enfoco cada dia a ser el mejor backend. 🎨✨</p>
 </div>
 
-## 🌟 Habilidades
+## 🌟 Stack Actual
+<div align="center">
+  
 ![Python](https://skillicons.dev/icons?i=python&theme=dark&perline=15)
-**(Fundamento)**
-
 ![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)
-**(Fundamentos,POO, JFrame, JDBC y JPA)**
-
 ![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)
-**(Comandos basicos)**
-
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark&perline=15)
-**(Consultas Basicas Y JOIN)**
-
 ![Spring](https://skillicons.dev/icons?i=spring&theme=dark&perline=15)
-**(Spring boot conceptos basicos)**
+
+</div>
 
 ## ESTADISTICAS LENGUAJES 🖥️✏️
 <div align="center">
