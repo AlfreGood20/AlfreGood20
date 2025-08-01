@@ -17,7 +17,10 @@
 ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark&perline=15)
 ![Spring](https://skillicons.dev/icons?i=spring&theme=dark&perline=15)
-
+![Github](https://skillicons.dev/icons?i=github&theme=dark&perline=15)
+![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark&perline=15)
+![Vscode](https://skillicons.dev/icons?i=vscode&theme=dark&perline=15)
+![Windows](https://skillicons.dev/icons?i=windows&theme=dark&perline=15)
 </div>
 
 ## ESTADISTICAS LENGUAJES 🖥️✏️
