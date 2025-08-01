@@ -2,7 +2,8 @@
 
 <div align="center">
   <h2>Bienvenido a mi perfil de GitHub🤖</h2>
-  <p>Me encanta aprender cosas nuevas y actualmente me enfoco cada dia a ser el mejor backend. 🎨✨</p>
+  <p>Me encanta aprender cosas nuevas y me enfoco cada dia a ser el mejor backend. 🎨✨</p>
+  <p>Actualmente estoy aprendiendo hacer apisRest con spring boot con buenas praticas. 👨‍💻🛠️ </p>
 </div>
 
 ## 🌟 Stack Actual
