@@ -26,7 +26,7 @@
 ## ESTADISTICAS LENGUAJES 🖥️✏️
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&layout=compact&theme=radical)](#)
 
 </div>
 
