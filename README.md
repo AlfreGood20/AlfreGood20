@@ -13,6 +13,7 @@
 [![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)](#)
 [![Html](https://skillicons.dev/icons?i=html&theme=dark&perline=15)](#)
 [![bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15)](#)
+[![tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark&perline=15)](#)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)](#)
 [![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15)](#)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark&perline=15)](#)
