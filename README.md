@@ -1,9 +1,9 @@
 # 👋 ¡Hola, soy Alfredo! 👻
 
 <div align="center">
-  <h2>Bienvenido a mi perfil de GitHub🤖</h2>
+  <h2>Bienvenido a mi perfil de GitHub 🤖</h2>
   <p>Me encanta aprender cosas nuevas y me enfoco cada dia a ser el mejor backend. 🎨✨</p>
-  <p>Actualmente estoy aprendiendo hacer apisRest con spring boot con buenas praticas. 👨‍💻🛠️ </p>
+  <p>Actualmente desarrollando habilidades de apis rest y conectivdad con framework de frontend 👨‍💻🛠️ </p>
 </div>
 
 ## 🌟 Stack Actual
@@ -13,6 +13,7 @@
 [![react](https://skillicons.dev/icons?i=react&theme=dark&perline=15)](#)
 [![Java](https://skillicons.dev/icons?i=java&theme=dark&perline=15)](#)
 [![Html](https://skillicons.dev/icons?i=html&theme=dark&perline=15)](#)
+[![js](https://skillicons.dev/icons?i=js&theme=dark&perline=15)](#)
 [![bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15)](#)
 [![tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark&perline=15)](#)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark&perline=15)](#)
@@ -23,13 +24,6 @@
 [![Eclipse](https://skillicons.dev/icons?i=eclipse&theme=dark&perline=15)](#)
 [![Vscode](https://skillicons.dev/icons?i=vscode&theme=dark&perline=15)](#)
 [![Windows](https://skillicons.dev/icons?i=windows&theme=dark&perline=15)](#)
-</div>
-
-## ESTADISTICAS LENGUAJES 🖥️✏️
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfreGood20&layout=compact&theme=radical)](#)
-
 </div>
 
 ## 📫 Contáctame
