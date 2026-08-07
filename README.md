@@ -31,7 +31,7 @@
 - **LinkedIn:** [Mi perfil](https://www.linkedin.com/José-Alfredo-López-De-La-Cruz)
 
 ## 🤳 Red Sociales
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_4tAABjsiIy2iQ4IQfV_Yw?style=social&logoSize=auto&)](https://www.youtube.com/@alfredopro202)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC_4tAABjsiIy2iQ4IQfV_Yw?style=social&logoSize=auto&)](https://www.youtube.com/@alfredopro20)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlfreGood20)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josealfredo.lopezdelacruz.58?mibextid=ZbWKwL)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alfredopro20?_t=8sgZBDNAQ3Z&_r=1)
